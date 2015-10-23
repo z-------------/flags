@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="1500" height="1000">
+  <metadata><rdf:RDF><cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Ausflag_2000_a</dc:title>
+  </cc:Work></rdf:RDF></metadata>
+  <rect style="fill:#002973" width="1500" height="1000"/>
+  <path transform="translate(572.92257,-73.534161)scale(1.7659628,1.7664245)"
+     d="m-152.132,113.938-23.082,57.508-59.354-17.81 30.571,53.902-50.93,35.3 61.203,9.706-4.156,61.828 45.748-41.798 45.748,41.798-4.156-61.828 61.203-9.706-50.93-35.3 30.57-53.902-59.353,17.81-23.082-57.508z"
+     style="fill:#ffb400"/>
+  <g transform="translate(1022.4354,-53.73706)scale(1.3137883,1.314132)" style="fill:#ffffff">
+    <path id="Star"
+       d="m 46.558,133.885l-13.384,33.346-34.415-10.327 17.727,31.255-29.532,20.468 35.488,5.628-2.41,35.851 26.526-24.237 26.527,24.237-2.41-35.851 35.488-5.628-29.532-20.468 17.727-31.255-34.415,10.327-13.385-33.346z"/>
+    <use x="170.06146" y="176.92945" xlink:href="#Star"/>
+    <use x="-171.85016" y="176.92945" xlink:href="#Star"/>
+    <use x="-0.894358" y="458.75093" xlink:href="#Star"/>
+  </g>
+  <path style="fill:#ffffff"
+     d="m1158.8871,519.58992l-14.0697,33.47698-36.1773,3.0403 27.4836,23.72873-8.2907,35.35208 31.0558-18.81168 31.0541,18.81168-8.2891-35.35208 27.4819-23.72873-36.1772-3.0403-14.0714-33.47698z"/>
+</svg>
