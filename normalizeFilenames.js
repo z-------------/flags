@@ -10,13 +10,15 @@ var path = require("path");
 
 var svgDirPath = path.join(__dirname, "svg");
 
+var pattern = /[^A-Z0-9\-.\ ]/gi;
+
 fs.readdir(svgDirPath, function(err, files) {
     if (err) throw err;
 
     for (filename of files) {
-        if (filename.indexOf("_") === -1 || filename.toLowerCase() === ".ds_store") continue;
+        if (!filename.match(pattern) || filename.toLowerCase() === ".ds_store") continue;
         
-        var newFilename = filename.replace(/Flag_of_/gi, "").replace(/_/g, " ");
+        var newFilename = filename.replace(/Flag_of_/gi, "").replace(/_/g, " ").replace(pattern, "-");
 
         console.log("renaming '%s' to '%s'", filename, newFilename);
 
