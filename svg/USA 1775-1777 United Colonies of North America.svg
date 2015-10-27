@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="1300">
+<title>Grand Union Flag</title>
+<rect width="1950" height="1300" fill="#bf0a30"/>
+<path d="M0,150H1950 M0,350H1950 M0,550H1950 M0,750H1950 M0,950H1950 M0,1150H1950" stroke="#fff" stroke-width="100"/>
+<svg width="700" height="700">
+	<rect width="700" height="700" fill="#002868"/>
+	<path d="M0,350H700 M350,0V700" stroke="#fff" stroke-width="166.66666"/>
+	<path d="M0,0L700,700 M700,0L0,700" stroke="#fff" stroke-width="100"/>
+	<path d="M0,350H700 M350,0V700" stroke="#bf0a30" stroke-width="100"/>
+</svg>
+</svg>
