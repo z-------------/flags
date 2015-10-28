@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="600px" viewBox="0 0 162 81" xmlns:xlink="http://www.w3.org/1999/xlink">
+<clipPath id="border">
+ <rect x="-13.125" y="-7.5" width="26.25" height="15"/>
+</clipPath>
+<rect fill="#00247D" width="162" height="81"/>
+<g id="1">
+<rect fill="#CF142B" width="162" height="9"/>
+<rect fill="#fff" y="9" width="180" height="9"/>
+</g>
+<use xlink:href="#1" transform="translate(0, 27)"/>
+<use xlink:href="#1" transform="translate(0, 54)"/>
+<g transform="translate(39.375, 22.5) scale(3)" clip-path="url(#border)">
+ <circle r="16" fill="#00247D"/>
+ <path d="M -17.5,-10 L 17.5,10 M -17.5,10 L 17.5,-10" stroke-width="3" stroke="white"/>
+ <path d="M -17.5,-10 L 17.5,10 M -17.5,10 L 17.5,-10" stroke-width="2" stroke="#CF142B"/>
+ <path fill="white" d="M 0,0 l 17.5,10 h -2.25 l -17.5,-10 M 0,0 l 17.5,-10 h 2.25 l -17.5,10 M 0,0 l -17.5,10 h -2.25 l 17.5,-10 M 0,0 l -17.5,-10 h 2.25 l 17.5,10"/>
+ <path d="M -17.5,0 H 17.5 M 0,-10 V 10" stroke-width="5" stroke="white"/>
+ <path d="M -17.5,0 H 17.5 M 0,-10 V 10" stroke-width="3" stroke="#CF142B"/>
+</g>
+</svg>
