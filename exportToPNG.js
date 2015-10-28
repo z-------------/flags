@@ -15,7 +15,8 @@ var puts = function(error, stdout, stderr) {
 };
 
 var execute = function(command) {
-    exec(command, puts);
+    // exec(command, puts);
+    exec(command);
 };
 
 var escapeSpaces = function(string) {
