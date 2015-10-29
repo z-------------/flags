@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:odm="http://product.corel.com/CGS/11/cddns/" xml:space="preserve" width="1024px" height="539px" style="shape-rendering: geometricprecision; text-rendering: geometricprecision; fill-rule: evenodd;" viewBox="0 0 1024 538">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#FFFFFF}
+    .fil1 {fill:#002868}
+    .fil0 {fill:#BF0A30}
+   ]]>
+  </style>
+ </defs>
+ <path class="fil0" d="M0 0l1024 0 0 538 -1024 0 0 -538z"/>
+ <g id="Layer 1">
+  <rect class="fil1" x="0" y="0" width="1024" height="269"/>
+  <path class="fil2" d="M305 226l12 37 39 0 -31 23 12 38 -32 -23 -31 23 12 -38 -32 -23 39 0 12 -37zm6 19m26 18m4 12m-10 30m-10 7m-32 0m-9 -7m-10 -30m4 -12m25 -18"/>
+  <path class="fil2" d="M362 369l12 37 40 0 -32 23 12 37 -32 -23 -31 23 12 -37 -32 -23 39 0 12 -37zm6 19m26 18m4 12m-10 30m-10 7m-31 0m-10 -7m-10 -30m4 -12m25 -18"/>
+  <path class="fil2" d="M364 79l12 37 39 0 -31 23 12 37 -32 -23 -31 23 12 -37 -32 -23 39 0 12 -37zm6 19m26 18m4 12m-10 30m-10 7m-32 0m-9 -7m-10 -30m4 -12m25 -18"/>
+  <path class="fil2" d="M505 19l12 37 39 0 -31 23 12 38 -32 -23 -32 23 13 -38 -32 -23 39 0 12 -37zm6 19m26 18m3 12m-9 30m-10 7m-32 0m-9 -7m-10 -30m3 -12m26 -18"/>
+  <path class="fil2" d="M652 81l12 37 39 0 -32 23 12 37 -31 -23 -32 23 12 -37 -31 -23 39 0 12 -37zm6 19m25 18m4 12m-10 30m-9 7m-32 0m-10 -7m-9 -30m3 -12m26 -18"/>
+  <path class="fil2" d="M711 224l12 37 39 0 -32 23 13 37 -32 -23 -32 23 12 -37 -31 -23 39 0 12 -37zm6 18m26 19m3 11m-10 30m-9 8m-32 0m-10 -8m-9 -30m3 -11m26 -19"/>
+  <path class="fil2" d="M651 368l12 37 39 0 -32 23 12 37 -31 -23 -32 23 12 -37 -31 -23 39 0 12 -37zm6 18m25 19m4 11m-10 30m-9 7m-32 0m-10 -7m-10 -30m4 -11m26 -19"/>
+  <path class="fil2" d="M505 427l12 37 39 0 -31 23 12 38 -32 -23 -31 23 12 -38 -32 -23 39 0 12 -37zm6 19m26 18m4 12m-10 30m-10 7m-32 0m-9 -7m-10 -30m4 -12m25 -18"/>
+  <path class="fil2" d="M359 303l0 -63 13 0 0 25 25 0 0 -25 12 0 0 63 -12 0 0 -28 -25 0 0 28 -13 0zm119 0l-13 0 -6 -15 -25 0 -5 15 -13 0 24 -63 13 0 25 63zm-23 -25l-8 -23 -9 23 17 0zm34 25l-15 -63 13 0 9 43 12 -43 15 0 11 44 9 -44 13 0 -15 63 -14 0 -12 -47 -12 47 -14 0zm124 0l-13 0 -6 -15 -24 0 -6 15 -13 0 24 -63 14 0 24 63zm-23 -25l-8 -23 -9 23 17 0zm30 25l0 -63 12 0 0 63 -12 0zm24 0l0 -63 12 0 0 63 -12 0z"/>
+ </g>
+</svg>

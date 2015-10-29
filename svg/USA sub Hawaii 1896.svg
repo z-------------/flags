@@ -1,0 +1,26 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <style type="text/css">
+    .st0{fill:#00247D;} .st1{fill:none;stroke:#FFFFFF;stroke-width:56.25;stroke-miterlimit:10;} .st2{fill:none;stroke:#CF142B;stroke-width:75;stroke-miterlimit:10;} .st3{fill:none;stroke:#FFFFFF;stroke-width:75;stroke-miterlimit:10;} .st4{clip-path:url(#SVGID_2_);fill:none;stroke:#CF142B;stroke-width:37.5;stroke-miterlimit:10;} .st5{clip-path:url(#SVGID_4_);fill:none;stroke:#CF142B;stroke-width:37.5;stroke-miterlimit:10;} .st6{fill:none;stroke:#CF142B;stroke-width:56.25;stroke-miterlimit:10;}
+  </style>
+  <path class="st0" d="M0 0h1200v600H0z"/>
+  <path class="st1" d="M0 300L525 0M0 0l525 300"/>
+  <path class="st2" d="M525 112.5h675M0 562.5h1200"/>
+  <path class="st3" d="M525 37.5h675M525 262.5h675M0 487.5h1200"/>
+  <defs>
+    <path id="SVGID_1_" d="M525 150H0V0l525 300z"/>
+  </defs>
+  <clipPath id="SVGID_2_">
+    <use xlink:href="#SVGID_1_" overflow="visible"/>
+  </clipPath>
+  <path class="st4" d="M0 0l525 300"/>
+  <defs>
+    <path id="SVGID_3_" d="M262.5 300V0H525L0 300z"/>
+  </defs>
+  <clipPath id="SVGID_4_">
+    <use xlink:href="#SVGID_3_" overflow="visible"/>
+  </clipPath>
+  <path class="st5" d="M525 0L0 300"/>
+  <path class="st3" d="M262.5 300V0M0 150h525"/>
+  <path class="st6" d="M0 150h525M262.5 300V0"/>
+  <path class="st2" d="M0 337.5h1200"/>
+</svg>
