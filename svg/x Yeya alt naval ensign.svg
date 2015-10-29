@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="128" viewBox="0 0 256 128">
+    <defs>
+        <clipPath id="swallow">
+            <polygon points="0,0 256,0 192,48 256,64 192,80 256,128 0,128" />
+        </clipPath>
+    </defs>
+
+    <g clip-path="url(#swallow)">
+        <rect id="field" x="0" y="0" width="256" height="128" fill="#FFFFFF" style="fill:#ffdc00;fill-opacity:1" />
+        <path id="wye" d="M0 0 L128 64 L256 64 M128 64 L0 128" stroke="#0074D9" stroke-width="32" fill="none" />
+    </g>
+</svg>

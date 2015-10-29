@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="128"
+   viewBox="0 0 256 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gourdist party.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="1.7125242"
+     inkscape:cx="4.375699"
+     inkscape:cy="50.289133"
+     inkscape:window-x="-3"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     id="field"
+     x="0"
+     y="0"
+     width="256"
+     height="128"
+     fill="#FF4136" />
+  <g
+     id="gourd" />
+  <g
+     id="g3535"
+     transform="matrix(0.08034609,0,0,0.08080808,91.844262,27.636364)"
+     style="fill:#ffdc00;fill-opacity:1">
+    <path
+       id="path3537"
+       d="M 571.3,356.2 C 589.1,331.9 599.7,302 600,269.6 600.9,186.9 533.8,118.5 451.1,117.9 367.8,117.3 300,184.7 300,267.9 c 0,33.1 10.7,63.7 28.8,88.5 9.9,13.5 6.2,32.5 -7.9,41.4 C 252.7,440.7 207.3,516.7 207.3,603.2 207.2,736.9 316.2,846 450,846 c 134,0 242.7,-108.7 242.7,-242.7 0,-86.7 -45.5,-162.8 -113.9,-205.7 -14.1,-8.9 -17.4,-27.9 -7.5,-41.4 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffdc00;fill-opacity:1" />
+    <path
+       id="path3539"
+       d="m 517.5,88.7 15,-26 C 522.9,57.2 511.8,54 500,54 c -35.9,0 -65,29.1 -65,65 l 30,0 c 0,-19.3 15.7,-35 35,-35 6.4,0 12.3,1.7 17.5,4.7 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffdc00;fill-opacity:1" />
+  </g>
+</svg>
