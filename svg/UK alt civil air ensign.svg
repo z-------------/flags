@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg>
+<svg version="1.1" baseProfile="full" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify"
+   id="Civil_Air_Ensign_of_the_United_Kingdom"
+   viewBox="-16.5 -7.5 33 15"
+   width="1200" height="600">
+  <defs>
+    <clipPath id="border">
+      <rect x="-16.5" y="-7.5" width="33" height="15"/>
+    </clipPath>
+  </defs>
+<rect width="33" height="16.5" x="-16.5" y="-8.25" fill="#6399ab" />
+  <g transform="matrix(0.460414,0,0,0.460414,-8.903169,-4.796895)" clip-path="url(#border)">
+    <circle r="20" fill="#00247D"/>
+    <path d="M -33,-15 L 33,15 M -33,15 L 33,-15" stroke-width="3" stroke="white" id="diags_white"/>
+    <path d="M -33,-15 L 33,15 M -33,15 L 33,-15" stroke-width="2" stroke="#CF142B" id="diags_red"/>
+    <path stroke="none" fill="white" d="M 0,0 l 33,15 h -3 l -33,-15 M 0,0 l 33,-15 h 3 l -33,15 M 0,0 l -33,15 h -3 l 33,-15 M 0,0 l -33,-15 h 3 l 33,15" id="eraser_white"/>
+<comment>I think the above two lines give the simplest way to make the diagonals</comment>
+    <path d="M -20,0 H 20 M 0,-10 V 10" stroke-width="5" stroke="white" id="cross_white"/>
+    <path d="M -20,0 H 20 M 0,-10 V 10" stroke-width="3" stroke="#CF142B" id="cross_red"/>
+  </g>
+<path d="M -16.5,0 H 16.5 M 0,-8.25 V 8.25" stroke-width="2.75" stroke="white"/>
+<path d="M -16.5,0 H 16.5 M 0,-8.25 V 8.25" stroke-width="1.65" stroke="#00247D"/>
+</svg>
