@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="1000"
+   height="800"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <rect
+     width="1000"
+     height="800"
+     x="0"
+     y="0"
+     id="background"
+     style="fill:#de2910" />
+  <rect
+     width="100"
+     height="25"
+     x="400"
+     y="250"
+     id="stroke_3"
+     style="fill:#ffde00" />
+  <path
+     d="M 150.00002,99.99995 L 127.56813,169.10163 L 54.89344,169.10417 L 113.67597,211.81491 L 91.232137,280.90323 L 150.02072,238.20713 L 208.78844,280.89065 L 186.33586,211.81491 L 245.10374,169.08411 L 172.44369,169.10163 L 150.00002,99.99995 z"
+     id="star"
+     style="fill:#ffde00" />
+  <rect
+     width="74.999992"
+     height="24.999998"
+     x="-80.939278"
+     y="367.08008"
+     transform="matrix(0.6000014,-0.7999989,0.7999989,0.6000014,0,0)"
+     id="stroke_1"
+     style="fill:#ffde00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     width="74.999992"
+     height="24.999998"
+     x="385.50024"
+     y="-138.99927"
+     transform="matrix(0.6000014,0.7999989,-0.7999989,0.6000014,0,0)"
+     id="stroke_2"
+     style="fill:#ffde00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     width="1000"
+     height="300"
+     x="0"
+     y="500"
+     id="rect2385"
+     style="fill:#3399ff" />
+</svg>
