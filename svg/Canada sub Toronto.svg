@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2400"
+   height="1200"
+   id="svg1307"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="Toronto Flag.svg"
+   version="1.0"
+   inkscape:label="Flag">
+  <defs
+     id="defs1309" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="982"
+     inkscape:cy="488.7547"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg1307"
+     inkscape:window-width="1024"
+     inkscape:window-height="720"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:guide-points="false"
+     guidetolerance="0.4px" />
+  <metadata
+     id="metadata1312">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <rect
+     style="fill:#274490;fill-opacity:1"
+     id="blue_rectangle"
+     width="2400"
+     height="1200"
+     x="0"
+     y="0"
+     inkscape:label="#blue rectangle" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 881.59435,851.47465 L 1044.0339,851.47465 L 1044.0339,234.10158 C 2060.0339,232.10158 2400,84.971902 2400,84.971902 L 2400,314.9719 C 2400,314.9719 1906,464 1288,450 L 1288,1200 L 637,1200 L 637,450 C 637,450 266,464 0,350 L 0,119.4686 C 0,119.4686 142,208.10158 882,234.10158"
+     id="white_buildings"
+     sodipodi:nodetypes="cccccccccccc"
+     inkscape:label="#white buildings" />
+  <path
+     style="fill:#ff0000"
+     d="M 961.5 732.625 L 917.40625 815.0625 C 912.40371 824.02759 903.46307 823.1914 894.5 818.1875 L 862.5625 801.625 L 886.375 928.28125 C 891.37757 951.42396 875.32727 951.4135 867.40625 941.40625 L 811.6875 878.875 L 802.65625 910.65625 C 801.61343 914.82615 797.03511 919.19909 790.15625 918.15625 L 719.71875 903.3125 L 738.21875 970.75 C 742.17924 985.76186 745.2667 991.9757 734.21875 995.9375 L 709.09375 1007.7813 L 830.34375 1106.5313 C 835.14287 1110.2651 837.5836 1116.9787 835.875 1123.0625 L 825.25 1158 C 866.99858 1153.1776 904.43992 1148.8523 946.1875 1144.0313 C 949.89698 1143.9848 952.30652 1146.0592 952.28125 1150.3438 L 949.40625 1200 L 973.625 1200 L 970.75 1150.3438 C 970.72474 1146.0593 973.13428 1143.9848 976.84375 1144.0313 C 1018.5913 1148.8522 1056.0327 1153.1777 1097.7813 1158 L 1087.1563 1123.0625 C 1085.4477 1116.9788 1087.8883 1110.2652 1092.6875 1106.5313 L 1213.9375 1007.7813 L 1188.8125 995.9375 C 1177.7645 991.97572 1180.852 985.76185 1184.8125 970.75 L 1203.3125 903.3125 L 1132.9063 918.15625 C 1126.0275 919.19906 1121.4178 914.82614 1120.375 910.65625 L 1111.3438 878.875 L 1055.625 941.40625 C 1047.704 951.41352 1031.6537 951.42393 1036.6563 928.28125 L 1060.4688 801.625 L 1028.5313 818.1875 C 1019.5678 823.19139 1010.6275 824.02758 1005.625 815.0625 L 961.5 732.625 z "
+     id="maple leaf" />
+</svg>
