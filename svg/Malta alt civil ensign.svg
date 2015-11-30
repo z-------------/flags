@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="500">
+	<rect width="750" height="500" fill="#fff"/>
+	<rect x="45" y="45" width="660" height="410" fill="#cf142b"/>
+	<g transform="matrix(175,0,0,175,375,250)">
+		<path id="ar" d="M 0,0 -0.38268343,-0.92387953 0,-0.5411961 0.38268343,-0.92387953 z" fill="#fff"/>
+		<use xlink:href="#ar" transform="matrix(0,1,-1,0,0,0)"/>
+		<use xlink:href="#ar" transform="matrix(0,-1,1,0,0,0)"/>
+		<use xlink:href="#ar" transform="scale(-1,-1)"/>
+	</g>
+</svg>
