@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="360" viewBox="0 0 72 36">
+<rect fill="#ed2939" width="72" height="36"/>
+<circle fill="#fff" cx="36" cy="18" r="8.3"/>
+<circle fill="#ed2939" cx="36" cy="18" r="7.35"/>
+<circle fill="#fff" cx="36" cy="19" r="5.45"/>
+<circle fill="#ed2939" cx="36" cy="17" r="5.4"/>
+<g id="star" transform="translate(36,12.75) scale(1.6)" fill="#fff">
+<g id="cone">
+<polygon id="triangle" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/><use xlink:href="#triangle" transform="scale(-1,1)" id="use12"/>
+</g>
+<use xlink:href="#cone" transform="rotate(72)" id="use14"/>
+<use xlink:href="#cone" transform="rotate(-72)" id="use16"/>
+<use xlink:href="#cone" transform="rotate(144)" id="use18"/>
+<use xlink:href="#cone" transform="rotate(-144)" id="use20"/>
+</g>
+<use xlink:href="#star" transform="translate(2,6)"/>
+<use xlink:href="#star" transform="translate(-2,6)"/>
+<use xlink:href="#star" transform="translate(3.25,2.25)"/>
+<use xlink:href="#star" transform="translate(-3.25,2.25)"/>
+</svg>
