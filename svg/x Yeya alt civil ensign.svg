@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="128" viewBox="0 0 256 128">
-    <rect id="field" x="0" y="0" width="256" height="128" fill="#0074D9"></rect>
-    <path id="wye" d="M0 0 L128 64 L256 64 M128 64 L0 128" stroke="#FFDC00" stroke-width="32" fill="none"></path>
-</svg>
