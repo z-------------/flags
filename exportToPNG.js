@@ -13,9 +13,13 @@ var puts = function(error, stdout, stderr) {
     console.log(stdout);
 };
 
-var execute = function(command) {
+var execute = function(command, callback) {
     // exec(command, puts);
-    exec(command);
+    try {
+        exec(command, callback);
+    } catch (e) {
+        // do nothing
+    }
 };
 
 var escapeSpaces = function(string) {
@@ -48,8 +52,15 @@ fs.mkdir(destDir, function(err) {
 
                 fs.exists(destPath, function(exists) {
                     if (!exists) {
-                        console.log("will convert '%s'", path.basename(srcPath));
-                        execute("inkscape --export-png=" + escapeSpaces(destPath) + " --export-height=" + config.EXPORT_HEIGHT + " " + escapeSpaces(srcPath));
+                        var filePathDisplay = path.basename(srcPath);
+                        console.log("will convert '%s'", filePathDisplay);
+                        try {
+                            execute("inkscape --export-png=" + escapeSpaces(destPath) + " --export-height=" + config.EXPORT_HEIGHT + " " + escapeSpaces(srcPath), function(err, stdout, stderr) {
+                                console.log("done converting '%s'", filePathDisplay);
+                            });
+                        } catch (e) {
+                            console.log("error converting '%s'", filePathDisplay);
+                        }
                     }
                 });
             }
