@@ -2,4 +2,4 @@ png
 
 *.zip
 
-./**/*/debug.log
+*.log
